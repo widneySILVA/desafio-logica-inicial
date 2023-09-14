@@ -22,6 +22,6 @@ if (xpDoHeroi < 1000) {
 } else {
   nivelDoHeroi = "Radiante";
 }
-
+//qualquer quantidade de XP igual ou superior a 10.001 será nivel Radiante.
 // Saída
 console.log(`O Herói de nome ${nomeDoHeroi} está no nível de ${nivelDoHeroi}`);
